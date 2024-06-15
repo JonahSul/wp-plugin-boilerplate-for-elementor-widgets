@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       https://thats.ninja
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    Ninja_Road_Report
+ * @subpackage Ninja_Road_Report/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    Ninja_Road_Report
+ * @subpackage Ninja_Road_Report/includes
+ * @author     Jonah Sullivan <jonah@thats.ninja>
  */
-class Plugin_Name_Activator {
+class Ninja_Road_Report_Activator {
 
 	/**
 	 * Short Description. (use period)
